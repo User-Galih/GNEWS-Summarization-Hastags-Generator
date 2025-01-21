@@ -3,6 +3,36 @@
 
 GNews Summarization is an application that combines natural language processing (NLP) and machine learning to automatically summarize news articles. This project aims to help users extract relevant information from news articles without being distracted by ads or unnecessary elements. Additionally, it generates relevant hashtags based on the article.
 
+## Gnews UI :
+### 1. Overview Page
+![Overview Page](Tampilan%20GNEWS.jpg)
+
+This is the main overview page of the GNews Summarization application. This page allows users to input a URL of the article & select language they want to summarize.
+
+---
+
+### 2. Summary Results Page 1
+![Input Page](Tampilan%20GNEWS2.jpg)
+
+This page displays the summary.
+
+---
+
+### 3. Summary Results Page 2
+![Summary Results Page](Tampilan%20GNEWS3.jpg)
+
+This page displays the summary.
+
+---
+
+### 4. Hastags Results & Data History Page
+![Data History Page](Tampilan%20GNEWS4.jpg)
+
+This page shows relevant hashtags generated for the article and the history of previously summarized articles stored in an Excel file.
+
+
+
+
 ## Background:
 Often, when reading news articles online, users are faced with various distractions such as pop-up ads or overly long and tedious articles. These factors reduce reading comfort and hinder understanding of the information. GNews Summarization aims to solve this issue by efficiently summarizing articles and removing those distractions.
 
